@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encrypt and Decrypt Demo", "Encrypt and Decrypt Demo\Encrypt and Decrypt Demo.csproj", "{3AFAFBC9-B5B3-463E-87B1-D5030B762E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AFAFBC9-B5B3-463E-87B1-D5030B762E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFAFBC9-B5B3-463E-87B1-D5030B762E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFAFBC9-B5B3-463E-87B1-D5030B762E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFAFBC9-B5B3-463E-87B1-D5030B762E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {845E98E0-9673-4FBE-9C9B-4CD1EAF746C0}
+	EndGlobalSection
+EndGlobal

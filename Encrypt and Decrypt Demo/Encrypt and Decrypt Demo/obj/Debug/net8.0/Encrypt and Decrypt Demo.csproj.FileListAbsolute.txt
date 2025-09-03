@@ -1,0 +1,14 @@
+C:\Users\MINDS\OneDrive\Desktop\Encrypt and Decrypt Demo\Encrypt and Decrypt Demo\obj\Debug\net8.0\Encrypt and Decrypt Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINDS\OneDrive\Desktop\Encrypt and Decrypt Demo\Encrypt and Decrypt Demo\obj\Debug\net8.0\Encrypt and Decrypt Demo.AssemblyInfoInputs.cache
+C:\Users\MINDS\OneDrive\Desktop\Encrypt and Decrypt Demo\Encrypt and Decrypt Demo\obj\Debug\net8.0\Encrypt and Decrypt Demo.AssemblyInfo.cs
+C:\Users\MINDS\OneDrive\Desktop\Encrypt and Decrypt Demo\Encrypt and Decrypt Demo\obj\Debug\net8.0\Encrypt and Decrypt Demo.csproj.CoreCompileInputs.cache
+C:\Users\MINDS\OneDrive\Desktop\Encrypt and Decrypt Demo\Encrypt and Decrypt Demo\bin\Debug\net8.0\Encrypt and Decrypt Demo.exe
+C:\Users\MINDS\OneDrive\Desktop\Encrypt and Decrypt Demo\Encrypt and Decrypt Demo\bin\Debug\net8.0\Encrypt and Decrypt Demo.deps.json
+C:\Users\MINDS\OneDrive\Desktop\Encrypt and Decrypt Demo\Encrypt and Decrypt Demo\bin\Debug\net8.0\Encrypt and Decrypt Demo.runtimeconfig.json
+C:\Users\MINDS\OneDrive\Desktop\Encrypt and Decrypt Demo\Encrypt and Decrypt Demo\bin\Debug\net8.0\Encrypt and Decrypt Demo.dll
+C:\Users\MINDS\OneDrive\Desktop\Encrypt and Decrypt Demo\Encrypt and Decrypt Demo\bin\Debug\net8.0\Encrypt and Decrypt Demo.pdb
+C:\Users\MINDS\OneDrive\Desktop\Encrypt and Decrypt Demo\Encrypt and Decrypt Demo\obj\Debug\net8.0\Encrypt and Decrypt Demo.dll
+C:\Users\MINDS\OneDrive\Desktop\Encrypt and Decrypt Demo\Encrypt and Decrypt Demo\obj\Debug\net8.0\refint\Encrypt and Decrypt Demo.dll
+C:\Users\MINDS\OneDrive\Desktop\Encrypt and Decrypt Demo\Encrypt and Decrypt Demo\obj\Debug\net8.0\Encrypt and Decrypt Demo.pdb
+C:\Users\MINDS\OneDrive\Desktop\Encrypt and Decrypt Demo\Encrypt and Decrypt Demo\obj\Debug\net8.0\Encrypt and Decrypt Demo.genruntimeconfig.cache
+C:\Users\MINDS\OneDrive\Desktop\Encrypt and Decrypt Demo\Encrypt and Decrypt Demo\obj\Debug\net8.0\ref\Encrypt and Decrypt Demo.dll
